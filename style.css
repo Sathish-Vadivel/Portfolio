@@ -1,5 +1,5 @@
 /* Responsive Design Media Queries */
-@media (max-width: 720px) {
+/* @media (max-width: 720px) {
   .topnav {
     padding: 0 8px;
     border-radius: 0;
@@ -183,7 +183,7 @@
   .blog_img {
     height: 120px;
   }
-}
+} */
 body {
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
